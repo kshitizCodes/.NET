@@ -1,0 +1,17 @@
+*.json
+*.dll
+*.exe
+*.pdb
+*.cache
+*.props
+*.targets
+*.info
+*.csproj
+*.xml
+.idea/*
+*.txt
+**/obj/*
+**/Properties/*
+**/.idea/*
+Dotnet Technology
+*.sln
